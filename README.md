@@ -1,5 +1,5 @@
 # cornelia1
-my new project
+our new project
 
 Based on seed project `spring-team:spring-rest-seed`
 
